@@ -23,7 +23,7 @@ pygame.mixer.init()
 pygame.mixer.music.load("Dexter.mp3")
 pygame.mixer.music.set_volume(0.7)
 pygame.mixer.music.play()
-##test
+##testing
 
 
 window.mainloop()
