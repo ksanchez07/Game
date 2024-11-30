@@ -1,18 +1,17 @@
 # Game
 
-The game is played on a 25 x 25 grid, and Dexter moves one square at a time. The player can shoot syringes and meele attack to take down the boss while ducking under cover.
+The game is played on a 25 x 25 grid, and Dexter moves one square at a time. The player can shoot syringes to take down the boss.
 
 Controls
 
 Directional Buttons:
 Up: Move Dexter upwards.
 Down: Move Dexter downwards.
-Left: Move Dexter to the left.
-Right: Move Dexter to the right.
+
 
 Keyboard Keys:
 Space bar: Launch Syringe.
-Z: meele attack with knife.
+
 
 Copyright
 Please note that this project is not intended for commercial use and is solely for educational purposes as part of a programming course. All credit for music, characters, and its assets goes to their respective owners.
